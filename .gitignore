@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+**/.next/
+**/node_modules/
+frontend/.env.local
+backend/RoomRental.Api/wwwroot/uploads/tickets/*
+!backend/RoomRental.Api/wwwroot/uploads/tickets/.gitkeep
