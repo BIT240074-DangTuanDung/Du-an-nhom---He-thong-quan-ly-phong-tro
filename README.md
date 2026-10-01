@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Room Rental Management System
 
 Ứng dụng quản lý phòng trọ gồm **Next.js 15 + Tailwind CSS**, **ASP.NET Core 10 Web API**, PostgreSQL, Entity Framework Core và JWT. Backend tự chạy migration khi khởi động và thêm dữ liệu mẫu lần đầu.
@@ -67,3 +68,7 @@ dotnet ef database update
 ```
 
 Để triển khai thực tế, hãy chuyển JWT Key, thông tin PostgreSQL và URL frontend sang biến môi trường/secret manager; không dùng các thông tin development trong `appsettings.json`.
+=======
+# Du-an-nhom---He-thong-quan-ly-phong-tro
+Hệ thống quản lý phòng trọ - Bài tập lớn
+>>>>>>> 54f2ba9b8631e6e8f6f4373aaaea4eccdab5160b
